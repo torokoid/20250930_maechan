@@ -239,7 +239,7 @@ p.note { display: none; }
 <h2><span class="yellow">プール入り口の外観</span></h2>
 <a href="20250930_035.JPG" target="_blank"><img src="20250930_035.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">いつものLotus's、西の空に怪しげな雲が綺麗</span></h2>
+<h2><span class="yellow">いつものLotus's、西の空の怪しげな雲が綺麗</span></h2>
 <a href="20250930_036.JPG" target="_blank"><img src="20250930_036.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250930_037.JPG" target="_blank"><img src="20250930_037.JPG" alt="サンプル画像" class="responsive-media"></a>
     
